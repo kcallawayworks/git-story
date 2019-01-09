@@ -1,0 +1,28 @@
+This will save my txt file and I now need to upload this corrected repository to Github
+
+Creating a git repository
+To tell git to start tracking the folder you’re currently in (don’t do this in your actualize directory!):
+
+git init
+
+NOTE: git init is only done once per project!
+
+Saving versions with git
+In your text editor, make changes and save the files.
+In the terminal, enter git add --all
+This adds your files to the Git “shopping cart”
+In the terminal, enter git commit -m 'some descriptive message explaining the changes'
+This saves all the added changes as a new version (“checkout shopping cart”)
+
+Repeat steps 1, 2, and 3
+Make changes
+git add --all
+git commit -m 'some descriptive message explaining the changes'
+
+Miscellaneous commands
+git status
+See current status of git
+git log
+See list of commits
+If the list goes past the end of the screen, enter q to quit
+git log -p
