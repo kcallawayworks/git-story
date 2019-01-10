@@ -1,3 +1,8 @@
+Little bunny foo foo went hopping thru the forest.
+This little piggy went to market, the market was called Wolfe's.
+Hey diddle, did you hear the one about the cat and the fiddle?
+
+
 This will save my txt file and I now need to upload this corrected repository to Github
 
 Creating a git repository
